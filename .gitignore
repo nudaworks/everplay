@@ -1,0 +1,14 @@
+# ide
+.idea/
+
+# deps
+node_modules/
+
+# devfiles
+devfiles/
+
+# logs
+*.log$
+
+# compiled
+client/public/
